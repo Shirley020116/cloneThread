@@ -1,5 +1,6 @@
 import { Slot } from 'expo-router';
 import { ThemeProvider, DarkTheme } from '@react-navigation/native';
+import '../../global.css';
 
 const myTheme = {
   ...DarkTheme,
