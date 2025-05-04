@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.5",
+    "dayjs": "^1.11.13",
     "expo": "~53.0.6",
     "expo-constants": "~17.1.5",
     "expo-linking": "~7.1.4",
